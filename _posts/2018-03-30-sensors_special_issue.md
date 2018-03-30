@@ -13,7 +13,7 @@ elements:
 last_modified_at: 2018-03-30T10:55:59-05:00
 ---
 
-<img height="50%" width="50%" style="float: left; padding: 10px 10px 10px 10px;" src="/assets/images/Proximal_Soil_Sensing-Banner.png">
+<img height="50%" width="50%" style="float: left; padding: 20px 20px 20px 20px;" src="/assets/images/Proximal_Soil_Sensing-Banner.png">
 
 Our current understanding of dynamic soil processes is constrained by a lack of efficient measurement capabilities for key soil properties across space and in time (e.g. nutrients, carbon, biology, water, pH). The development of proximal soil sensing is essential for the dynamic characterisation of soil to help advance our current understanding of such processes and for monitoring them. Recent technological advances in miniaturised, low-power, sensors that are also wireless show considerable promise. Thus, for this special issue we welcome reviews and original research articles on the following topics:
 1.	New soil sensor technologies for sensing biological, physical, and chemical soil properties;
